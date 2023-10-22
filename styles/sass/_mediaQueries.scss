@@ -102,6 +102,7 @@
   header .heroImageContainer img {
     width: 250px;
     height: 250px;
+    object-fit: cover;
   }
 
   .sectionContainer {
@@ -176,6 +177,7 @@
 
     .heroImageContainer img {
       box-shadow: 12px 0 rgba(217, 200, 241, 1);
+      object-fit: cover;
     }
   }
 
